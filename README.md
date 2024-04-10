@@ -5,5 +5,7 @@
 Due to nature of the IFTTT applet used it is not currenty possible to publish applet, therefore as of now this tool is not useable by anyone other the creator.
 
 
-_TODO - Customise to allow selection of currency and crypto coin that is displayed, as well as how often notifications are send._
+_~~TODO - Customise to allow selection of currency and crypto coin that is displayed, as well as how often notifications are send.~~_
+
+_TODO - Check user input is valid (ie, is actually a coin or currency as per the CoinMarketCap API)._
 
